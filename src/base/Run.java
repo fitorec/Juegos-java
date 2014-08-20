@@ -8,8 +8,8 @@ package base;
 public class Run {
     public static void main(String[] args) {
         //Run.jugarGato();
-        Run.jugarMemorama();
-        // Run.jugarCuatroEnRaya();
+        //Run.jugarMemorama();
+        Run.jugarCuatroEnRaya();
     }
 
     /**
